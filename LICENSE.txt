@@ -1,3 +1,5 @@
+Copyright for portions of phonegap-plugin-barcodescanner are held by Matt Kane, 2010; IBM Corporation, 2011; Adobe Systems, 2012-2017 as part of project Bar. All other copyright for phonegap-plugin-barcodescanner are held by M.M. Hayes Co., Inc., 2021.
+
 Copyright 2010 Matt Kane
 Copyright 2011 IBM Corporation
 Copyright 2012-2017 Adobe Systems
